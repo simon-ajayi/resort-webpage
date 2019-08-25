@@ -1,0 +1,20 @@
+h1 {
+    font-size: large;
+    text-align: center;
+    font-style: bold;
+}
+
+body {
+    background-image: url("img/resort2.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: fantasy;
+    font-style: italic;
+    background-blend-mode: color-burn;
+    color: white;
+    text-align:center;
+}
+
+ul {
+    text-decoration: none;
+}
